@@ -43,7 +43,7 @@ params:
       category: North Coast
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: Lavalink Status
       link: https://elaborate-stroopwafel-8cbc42.netlify.app/
     - name: API
       description: The guts of the application.
@@ -61,7 +61,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly

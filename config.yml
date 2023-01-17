@@ -38,20 +38,20 @@ params:
   down: "#e60000"
   systems:
     - name: Gateway
-      category: North Coast
+      category: Lavalink Status
     - name: Backup Gateway
-      category: North Coast
+      category: Lavalink Status
     - name: Website
       description: The web frontend for the application.
-      category: Uncategorized
+      category: Lavalink Status
       link: https://example.com/
     - name: API
       description: The guts of the application.
-      category: Uncategorized
+      category: Lavalink Status
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
-      category: Uncategorized
+      category: Lavalink Status
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -68,7 +68,7 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: North Coast
+    - name: Lavalink Status
       description: The main servers are located here.
       closed: true
     - name: Empty Category

@@ -70,8 +70,7 @@ params:
   categories:
     - name: Lavalink Status
       description: The main servers are located here.
-      closed: true
-    - name: Empty Category
+      closed: false
     - name: Uncategorized
       untitled: true
   description: We continuously monitor the status of our services and if there are
